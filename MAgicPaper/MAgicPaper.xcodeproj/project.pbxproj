@@ -15,7 +15,7 @@
 		0739C1CB24C87D000066B1C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0739C1C924C87D000066B1C0 /* Main.storyboard */; };
 		0739C1CD24C87D020066B1C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0739C1CC24C87D020066B1C0 /* Assets.xcassets */; };
 		0739C1D024C87D020066B1C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0739C1CE24C87D020066B1C0 /* LaunchScreen.storyboard */; };
-		0739C1D824C87F010066B1C0 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0739C1D724C87F010066B1C0 /* harrypotter.mp4 */; };
+		073C428324CB1B7D00920B6B /* harry.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 073C428224CB1B7D00920B6B /* harry.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		0739C1CC24C87D020066B1C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0739C1CF24C87D020066B1C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0739C1D124C87D020066B1C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0739C1D724C87F010066B1C0 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = harrypotter.mp4; path = MAgicPaper/video/harrypotter.mp4; sourceTree = SOURCE_ROOT; };
+		073C428224CB1B7D00920B6B /* harry.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harry.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +46,7 @@
 		07380F6024CA9DB6002ED2B5 /* video */ = {
 			isa = PBXGroup;
 			children = (
-				0739C1D724C87F010066B1C0 /* harrypotter.mp4 */,
+				073C428224CB1B7D00920B6B /* harry.mp4 */,
 				07380F6124CAA799002ED2B5 /* dumbledore.mp4 */,
 				07380F5E24CA9C30002ED2B5 /* snape2_.mp4 */,
 			);
@@ -144,10 +144,10 @@
 			files = (
 				0739C1C624C87D000066B1C0 /* art.scnassets in Resources */,
 				0739C1D024C87D020066B1C0 /* LaunchScreen.storyboard in Resources */,
-				0739C1D824C87F010066B1C0 /* harrypotter.mp4 in Resources */,
 				0739C1CD24C87D020066B1C0 /* Assets.xcassets in Resources */,
 				0739C1CB24C87D000066B1C0 /* Main.storyboard in Resources */,
 				07380F6224CAA799002ED2B5 /* dumbledore.mp4 in Resources */,
+				073C428324CB1B7D00920B6B /* harry.mp4 in Resources */,
 				07380F5F24CA9C30002ED2B5 /* snape2_.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

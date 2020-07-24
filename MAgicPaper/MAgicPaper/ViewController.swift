@@ -139,11 +139,11 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 
             if imageAnchor.referenceImage.name == "harrypotter" {
                 //add sk video
-                let videoNode = SKVideoNode(fileNamed: "harrypotter.mp4")
+                let videoNode = SKVideoNode(fileNamed: "harry.mp4")
                 
                 videoNode.play()
                 
-                let videoScene = SKScene(size: CGSize(width: 480, height: 360))
+                let videoScene = SKScene(size: CGSize(width: 750, height: 120))
                 
                 videoScene.addChild(videoNode)
                 
